@@ -1,8 +1,149 @@
 body {
-  padding: 50px;
+  margin: 0%;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
-a {
-  color: #00B7FF;
+.header {
+  flex-wrap: wrap;
+  text-align: center;
 }
+.header-text {
+  color: #0801B8;
+}
+
+a:link, a:visited {
+  background-color: #FAE711;
+  font-family:inherit;
+  font-size: 16pt;
+  color: #0801B8;
+  padding: 1px 1px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  
+	transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+}
+
+a:hover, a:active {
+  transform: scale(1.10);
+  
+}
+
+.navbar-link {
+  color: #0801B8;
+  flex-wrap: nowrap;
+  
+}
+
+.navbar {
+  display: flex;
+}
+
+.container-fluid {
+  
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.right-container{
+  flex-direction: row-reverse;
+}
+
+/* Style the form - display items horizontally */
+.form-inline {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: stretch;
+  margin-top: 20px;
+  
+}
+
+.input-group {
+  justify-content: center;
+}
+
+.where {
+  max-width: 15rem;
+  
+}
+
+.btn-outline-secondary {
+  height: 50px;
+  border: 1px solid #828282
+}
+
+/* Style the input fields */
+.form-inline input {
+  vertical-align: middle;
+  background-color: #fff;
+  border-top: 1px solid #828282;
+  border-bottom: 1px solid #828282;
+  border-right: 1px solid #828282;
+  border-left: 1px solid #ffff;
+  border-radius: 10px;
+  
+}
+
+.form-inline span {
+  border-left: 1px solid #828282;
+  border-top: 1px solid #828282;
+  border-bottom: 1px solid #828282;
+
+}
+
+/* Style the submit button */
+.form-inline button {
+  border: 1px solid #828282;
+  align-self: flex-start;
+  /* background-color: #1D4296; */
+  justify-content: center;
+  padding: 0px;
+  width: 100px;
+  height:50px;
+  border-radius: 10px;
+}
+
+.form-inline button:hover {
+  background-color: #ffff;
+  color: black;
+  transform: scale(1.15);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.form-inline input:hover {
+  background-color: #ffff;
+  color: black;
+  transform: scale(1.03);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.jobsearch {
+  justify-content: center;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.pill {
+  background-color: #FAE711;
+  border-radius: 15px;
+  margin: 10px;
+}
+
+/* Add responsiveness - display the form controls vertically instead of horizontally on screens that are less than 800px wide */
+@media (max-width: 768px) {
+
+  .form-inline input {
+    height: 4rem;
+  }
+
+  .form-inline {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .where {
+    max-width: 15rem;
+    justify-content: flex-start;
+  }
+}
+

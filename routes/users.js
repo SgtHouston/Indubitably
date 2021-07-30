@@ -3,12 +3,7 @@ var router = express.Router();
 const db = require("../models"); // ../ is a folder up
 const bcrypt = require("bcrypt");
 
-// get all users
-router.get("/", function (req, res, next) {
-  db.User.findAll().then((users) => {
-    res.json(users);
-  });
-});
+
 
 // /register route (adds a user to the database)
 router.post("/register", async (req, res) => {
