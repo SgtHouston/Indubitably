@@ -60,5 +60,40 @@ router.post("/register", async (req, res) => {
   res.redirect("/registered.html");
 });
 
+// login route
+
+// POST /users/login
+router.post('/login', (req, res) => {
+  // check for email & password
+  if (!req.body || !req.body.email || !req.body.password) {
+    // respond with error if not included
+    res.status(422).json({ error: 'must include email & password' })
+    return
+  }
+
+  // find user
+  db.User.findOne({
+    where: {
+      email: req.body.email
+    }
+  })
+    .then((user) => {
+      // check user password
+      console.log(req.session)
+      bcrypt.compare(req.body.password, user.dataValues.password)
+        .then((success) => {
+          if (success) {
+            // log in user
+            req.session.user = user;
+            // res.json({ message: 'successfully logged in' })
+            res.redirect('../index.html')
+          } else {
+            // user entered wrong password
+            res.status(401).json({ error: 'incorrect password' })
+          }
+        })
+    })
+})
+
 // export module
 module.exports = router;

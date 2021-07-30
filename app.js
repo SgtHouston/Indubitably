@@ -11,7 +11,7 @@ const db = require("./models");
 var path = require("path");
 var cookieParser = require("cookie-parser");
 var logger = require("morgan");
-const session = require("express-session");
+var session = require("express-session");
 
 // load checkAuth.js for login authorization
 const checkAuth = require("./checkAuth");
@@ -26,7 +26,6 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
 app.use("/", indexRouter);
-app.use("/users", usersRouter);
 // end auto generated
 
 // custom routes
@@ -41,6 +40,8 @@ app.use(
     },
   })
 );
+// usersRouter MUST be after app.use(session...
+app.use("/users", usersRouter);
 // end custom routes
 
 // export module as app
