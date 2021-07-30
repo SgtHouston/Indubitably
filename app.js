@@ -12,6 +12,9 @@ var path = require("path");
 var cookieParser = require("cookie-parser");
 var logger = require("morgan");
 var session = require("express-session");
+var app = express();
+app.set('view engine', 'ejs')
+app.set('views', 'views')
 
 // load checkAuth.js for login authorization
 const checkAuth = require("./checkAuth");
@@ -19,7 +22,7 @@ const checkAuth = require("./checkAuth");
 // auto generated
 var indexRouter = require("./routes/index");
 var usersRouter = require("./routes/users");
-var app = express();
+
 app.use(logger("dev"));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
