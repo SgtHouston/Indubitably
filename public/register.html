@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+</head>
+
+<body>
+  <div class="container flex-box">
+    <h3>temporary register page</h2>
+      <form action="/users/register" method="POST">
+        <label for="firstName">first name</label><br>
+        <input type="text" id="firstName" name="firstName" value=""><br>
+        <label for="lastName">last name</label><br>
+        <input type="text" id="lastName" name="lastName" value=""><br>
+        <label for="email">email</label><br>
+        <input type="text" id="email1" name="email" value="" autocomplete="username"><br>
+        <label for="password">password</label><br>
+        <input type="password" id="password1" name="password" value="" autocomplete="current-password"><br><br>
+        <input type="submit" value="register">
+      </form>
+      <br>
+      <form action="/users/login" method="POST">
+        <label for="email">email</label><br>
+        <input type="text" id="email2" name="email" value="" autocomplete="username"><br>
+        <label for="password">password</label><br>
+        <input type="password" id="password2" name="password" value="" autocomplete="current-password"><br><br>
+        <input type="submit" value="log in">
+      </form>
+  </div>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+</html>
