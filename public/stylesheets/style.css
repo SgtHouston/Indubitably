@@ -20,19 +20,16 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  
 	transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
 }
 
 a:hover, a:active {
   transform: scale(1.10);
-  
 }
 
 .navbar-link {
   color: #0801B8;
   flex-wrap: nowrap;
-  
 }
 
 .navbar {
@@ -40,15 +37,16 @@ a:hover, a:active {
 }
 
 .container-fluid {
-  
   margin-top: 10px;
   display: flex;
   align-items: center;
   justify-content: center;
+  
 }
 
-.right-container{
+div.right-container.container-fluid {
   flex-direction: row-reverse;
+  justify-content: space-around;
 }
 
 /* Style the form - display items horizontally */
