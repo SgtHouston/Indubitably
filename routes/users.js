@@ -3,7 +3,11 @@ var router = express.Router();
 const db = require("../models"); // ../ is a folder up
 const bcrypt = require("bcrypt");
 
-
+// get /register
+router.get('/register', (req, res) => {
+  // render register.ejs
+  res.render('register')
+})
 
 // /register route (adds a user to the database)
 router.post("/register", async (req, res) => {
@@ -19,6 +23,7 @@ router.post("/register", async (req, res) => {
   if (users.length) {
     // send error
     res.status(422).json({ error: "this email address is already registered" });
+    return
   }
 
   // check if body contains firstName, lastName, email, password
@@ -80,14 +85,23 @@ router.post('/login', (req, res) => {
           if (success) {
             // log in user
             req.session.user = user;
+            console.log(user)
             // res.json({ message: 'successfully logged in' })
-            res.redirect('../index.html')
+            res.redirect('/')
           } else {
             // user entered wrong password
             res.status(401).json({ error: 'incorrect password' })
           }
         })
     })
+})
+
+// GET /logout (logs user out)
+router.get('/logout', (req, res) => {
+  // tell express that the user logged out
+  req.session.user = null;
+  // send response to show it worked
+  res.json({ message: 'successfully logged out' })
 })
 
 // export module
