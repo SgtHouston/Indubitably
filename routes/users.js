@@ -60,39 +60,5 @@ router.post("/register", async (req, res) => {
   res.redirect("/registered.html");
 });
 
-// /login route (logs user in)
-router.post("/login", (req, res) => {
-  // check for email & password
-  if (!req.body || !req.body.email || !req.body.password) {
-    // respond with error if not included
-    res
-      .status(422)
-      .json({ error: "please include all required field(s): email, password" });
-    return;
-  }
-
-  // find user
-  db.User.findOne({
-    where: {
-      email: "todd.m.trowbridge@gmail.com",
-    },
-  }).then((user) => {
-    // check user password
-    console.log(user.password);
-    console.log("checking password");
-    bcrypt.compare(req.body.password, user.password).then((success) => {
-      if (success) {
-        // log in user
-        // todo why doesn't the next line work???
-        // req.session.user = user;
-        res.json({ message: "successfully logged in" });
-      } else {
-        // incorrect password
-        res.status(401).json({ error: "incorrect password" });
-      }
-    });
-  });
-});
-
 // export module
 module.exports = router;
