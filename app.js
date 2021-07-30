@@ -20,15 +20,16 @@ app.set('views', 'views')
 const checkAuth = require("./checkAuth");
 
 // auto generated
-var indexRouter = require("./routes/index");
+var jobRouter = require("./routes/job");
 var usersRouter = require("./routes/users");
+
 
 app.use(logger("dev"));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, "public")));
-app.use("/", indexRouter);
+
 // end auto generated
 
 // custom routes
@@ -45,6 +46,7 @@ app.use(
 );
 // usersRouter MUST be after app.use(session...
 app.use("/users", usersRouter);
+app.use("/jobs", jobRouter)
 // end custom routes
 
 // export module as app
