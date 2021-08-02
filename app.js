@@ -24,6 +24,7 @@ const checkAuth = require("./checkAuth");
 // auto generated
 var jobRouter = require("./routes/job");
 var usersRouter = require("./routes/users");
+var apiFavoritesRouter = require("./routes/api/favorites");
 var indexRouter = require("./routes/index");
 
 
@@ -51,6 +52,7 @@ app.use(
 app.use("/", indexRouter);
 app.use("/users", usersRouter);
 app.use("/jobs", jobRouter);
+app.use("/api/v1/favorites", apiFavoritesRouter);
 // end custom routes
 
 

@@ -1,7 +1,3 @@
-
-
-
-
 document.addEventListener('click', (e) => {
     const jobColumn = e.target.closest('.job-column')
     if (jobColumn) {
