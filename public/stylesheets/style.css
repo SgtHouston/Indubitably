@@ -146,4 +146,7 @@ a:hover, a:active {
     justify-content: flex-start;
   }
 }
-
+.card-header {
+  display: flex;
+  justify-content: space-between;
+}
