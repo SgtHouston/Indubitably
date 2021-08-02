@@ -7,48 +7,45 @@
 
 <body>
     <%- include('partials/nav') -%>
-
-    <div class="jobsearch col-8">Suggested Searches
+    <!-- Search Pills need to be linked to appropriate searches -->
+    <div class="jobsearch col-8 text-mute text-center">Popular Searches
         <div class="jobsearch-SuggestedSearches-pill">
             <ul class="nav nav-pills">
                 <li class="nav-item pill">
-                    <a class="nav-link" href="#">Software Developer</a>
+                    <a class="nav-link search-button" data-searchinput="Software Developer" href="#">Software Developer</a>
                 </li>
                 <li class="nav-item pill">
-                    <a class="nav-link" href="#">Frontend Developer</a>
+                    <a class="nav-link search-button" data-searchinput="Frontend Developer" href="#">Frontend Developer</a>
                 </li>
                 <li class="nav-item pill">
-                    <a class="nav-link" href="#">Software Engineer</a>
+                    <a class="nav-link search-button" data-searchinput="Software Engineer" href="#">Software Engineer</a>
                 </li>
                 <li class="nav-item pill">
-                    <a class="nav-link" href="#">Frontend Engineer</a>
+                    <a class="nav-link search-button" data-searchinput="Frontend Engineer" href="#">Frontend Engineer</a>
                 </li>
                 <li class="nav-item pill">
-                    <a class="nav-link" href="#">Web Developer</a>
+                    <a class="nav-link search-button" data-searchinput="Web Developer" href="#">Web Developer</a>
                 </li>
                 <li class="nav-item pill">
-                    <a class="nav-link" href="#">Backend Developer</a>
+                    <a class="nav-link search-button" data-searchinput="Backend Developer" href="#">Backend Developer</a>
                 </li>
                 <li class="nav-item pill">
-                    <a class="nav-link" href="#">Full-Stack Developer</a>
-                </li>
-
-                <li class="nav-item pill">
-                    <a class="nav-link" href="#">React Developer</a>
-                </li>
-
-                <li class="nav-item pill">
-                    <a class="nav-link" href="#">Full-Stack Engineer</a>
+                    <a class="nav-link search-button" data-searchinput="Full-Stack Developer" href="#">Full-Stack Developer</a>
                 </li>
                 <li class="nav-item pill">
-                    <a class="nav-link" href="#">Backend Engineer</a>
+                    <a class="nav-link search-button" data-searchinput="React Developer" href="#">React Developer</a>
                 </li>
-
-
-
+                <li class="nav-item pill">
+                    <a class="nav-link search-button" data-searchinput="Full-Stack Engineer" href="#">Full-Stack Engineer</a>
+                </li>
+                <li class="nav-item pill">
+                    <a class="nav-link search-button" data-searchinput="Backend Engineer" href="#">Backend Engineer</a>
+                </li>
             </ul>
         </div>
     </div>
+
+    <%- include('partials/footer') -%>
 </body>
 
 </html>
