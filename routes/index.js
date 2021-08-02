@@ -8,9 +8,10 @@ router.get('/', (req, res, next) => {
     // first argument is template second is data passed into template
     res.render('home', {
 
-        title: 'Indubitably',
-        
+        title: 'INDUBITABLY',
+        user: 'Chris'
     })
 })
+
 
 module.exports = router
