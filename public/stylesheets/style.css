@@ -5,7 +5,6 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  
 }
 
 .header {
@@ -14,6 +13,18 @@ body {
 }
 .header-text {
   color: #0801B8;
+}
+
+.results {
+  display: flex;
+  justify-content: space-around;
+}
+
+.results-popup {
+  display: flex;
+  justify-content: space-around;
+  border-width: 8px;
+	border-radius: 10px;
 }
 
 .tooltip-wrap {
@@ -91,6 +102,13 @@ div.right-container.container-fluid {
 .btn-outline-secondary {
   height: 50px;
   border: 1px solid #828282
+}
+
+a.btn.btn-fav {
+  border-color: #0801B8;
+  margin-top: 10px;
+  border-width: 5px;
+  
 }
 
 /* Style the input fields */
@@ -194,7 +212,42 @@ img:hover + .bubble {
   height: 200px;
 }
 
+
 .card-header {
   display: flex;
   justify-content: space-between;
 }
+
+.card.cards-container {
+  border-width: 10px;
+	border-radius: 20px;
+  background-color:#FAE711;
+	border-color: #0801B8;
+  margin-bottom: 1rem;
+}
+
+div.card-body.job-column {
+	border-width: 5px;
+	border-radius: 10px;
+	border-color: #FAE711;
+	text-align: center;
+	/* hover effect + .card:hover */
+	background: #fff;
+  box-shadow: 0 6px 10px rgba(0,0,0,.08), 0 0 6px rgba(0,0,0,.05);
+	transition: .3s transform cubic-bezier(.155,1.105,.295,1.12),.3s box-shadow,.3s -webkit-transform cubic-bezier(.155,1.105,.295,1.12);
+  
+}
+
+.card:hover{
+	transform: scale(1.05);
+box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+.card-text {
+	margin-bottom: 3px;
+}
+
+.card-title {
+	margin: 5px;
+}
+
