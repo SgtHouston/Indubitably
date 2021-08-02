@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('partials/head') -%>
+</head>
+<body>
+    <%- include('partials/nav') -%>
+
+    <!-- render favorites.forEach as shown in AppleCEO below-->
+    <div class="container">
+        <div class="row">
+            <div class="col-12 header text-center">
+                <h2 class="display-2">INDUBITABLY</h2>
+                <h3 class="header2">Welcome To Your Favorites</h3>
+            </div>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col-12 favjobs" id='favjobs'>
+        <!-- Favorite Movies SHOW UP HERE! -->
+
+            <!-- <ul class="list-group w-100">
+                <% favorites.forEach((favorite)=> { %>
+                    <a class="list-group-item" href="/favorites/<%= job.id %> ">
+                        <div class="d-flex w-100 justify-content-between">
+                            <h5 class="mb-1">
+                                <%= job.title %>
+                            </h5>
+                            <small>
+                                <%= job.company %>
+                            </small>
+                            <small>
+                                <%= job.location %>
+                            </small>
+                            <small>
+                                <%= job.salary%>
+                            </small>
+                        </div>
+                    </a>
+                    <% }) %>
+            </ul> -->
+
+        </div>
+    </div>
+
+
+
+    
+</body>
+</html>

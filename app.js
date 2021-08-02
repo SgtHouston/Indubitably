@@ -13,7 +13,9 @@ var cookieParser = require("cookie-parser");
 var logger = require("morgan");
 var session = require("express-session");
 var app = express();
+
 app.set('view engine', 'ejs')
+// first argument-setting  second argument-value
 app.set('views', 'views')
 
 // load checkAuth.js for login authorization
@@ -22,6 +24,7 @@ const checkAuth = require("./checkAuth");
 // auto generated
 var jobRouter = require("./routes/job");
 var usersRouter = require("./routes/users");
+var indexRouter = require("./routes/index");
 
 
 app.use(logger("dev"));
@@ -45,9 +48,11 @@ app.use(
   })
 );
 // usersRouter MUST be after app.use(session...
+app.use("/", indexRouter);
 app.use("/users", usersRouter);
-app.use("/jobs", jobRouter)
+app.use("/jobs", jobRouter);
 // end custom routes
+
 
 // export module as app
 module.exports = app;
