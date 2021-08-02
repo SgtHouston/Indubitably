@@ -11,6 +11,22 @@ body {
   color: #0801B8;
 }
 
+.tooltip-wrap {
+  position: relative;
+}
+.tooltip-wrap .tooltip-content {
+  display: none;
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  right: 5%;
+  background-color: rgba(255, 255, 255, 0.106);
+  padding: .5em;
+}
+.tooltip-wrap:hover .tooltip-content {
+  display: block;
+}
+
 a:link, a:visited {
   background-color: #FAE711;
   font-family:inherit;
