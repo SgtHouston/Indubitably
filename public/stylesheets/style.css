@@ -161,23 +161,3 @@ div.right-container.container-fluid {
   }
 }
 
-footer {
-	position: absolute;
-	bottom: 0;
-	background-color: #FAE711;
-	color: #0801B8;
-	text-align: center;
-}
-
-.bubble {
-  position: absolute;
-  left: -9999px;
-}
-
-img:hover + .bubble {
-  left: 60%;
-  bottom: 12rem;
-  background-repeat: no-repeat;
-  width: 200px;
-  height: 200px;
- }
