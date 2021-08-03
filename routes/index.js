@@ -6,11 +6,18 @@ const db = require('../models')
 /* GET home page. */
 router.get('/', (req, res, next) => {
     // first argument is template second is data passed into template
-    res.render('home', {
+    if (req.session.user != null) {
+        res.render('home', {
 
-        title: 'INDUBITABLY',
-        user: 'Chris'
-    })
+            title: 'INDUBITABLY',
+            user: req.session.user
+        })
+    } else {
+        res.render('home', {
+
+            title: 'INDUBITABLY'
+        })
+    }
 })
 
 
