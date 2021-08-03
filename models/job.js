@@ -11,8 +11,6 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      Job.hasMany(models.Favorite)
-      
     }
   };
   Job.init({
