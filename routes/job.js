@@ -1,32 +1,29 @@
-var express = require('express');
+var express = require("express");
 var router = express.Router();
-const db = require('../models')
-
+const db = require("../models");
+const { Op } = require("sequelize");
 
 /* GET home page. */
-router.post('/search', async (req, res, next) => {
-  db.Job.findAll()
-    .then((jobs) => {
-      const jobResults = db.User.findAll({
-        where: {
-          // by job title
-          title: req.body.searchform,
-        },
-      });
-      console.log(jobResults.title)
-      
-
-
-
-
-
-      res.render('jobs', {
-          title : 'Jobs',
-          jobs : jobs
-      })        
+router.get("/search", async (req, res, next) => {
+  const locations = await db.Location.findAll();
+  const jobs = await db.Job.findAll({
+    where: {
+      // by job title
+      title: {
+        [Op.iLike]: "%" + req.query.search + "%",
+      },
+      LocationId: req.query.location || null,
+    },
+    include: [db.Location],
   });
-})
-
+  res.render("jobs", {
+    locations: locations,
+    title: "Jobs",
+    jobs: jobs,
+    search: req.query.search || "",
+    locationId: req.query.location,
+  });
+});
 
 // router.get('/search', (req, res, next) => {
 //   const title = db.Job.findAll({
@@ -38,11 +35,6 @@ router.post('/search', async (req, res, next) => {
 //   });
 //   console.log(title)
 // })
-
-
-
-
-
 
 // router.post('/', (req, res) => {
 
@@ -60,17 +52,6 @@ router.post('/search', async (req, res, next) => {
 //     }
 // })
 
-
 // })
-
-
-
-
-
-
-
-
-
-
 
 module.exports = router;
