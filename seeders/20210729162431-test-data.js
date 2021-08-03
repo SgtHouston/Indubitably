@@ -204,7 +204,7 @@ module.exports = {
       LocationId: 1,
       salary: "From $60,000 a year to $155,000",
       summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-      long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+      long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
       updatedAt: new Date()
   },
   {
@@ -352,7 +352,7 @@ module.exports = {
       LocationId: 5,
       salary: "From $60,000 a year to $155,000",
       summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-      long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+      long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
       updatedAt: new Date()
   },
   {
@@ -500,7 +500,7 @@ module.exports = {
       LocationId: 2,
       salary: "From $60,000 a year to $155,000",
       summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-      long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+      long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
       updatedAt: new Date()
   },
   {
@@ -648,7 +648,7 @@ module.exports = {
       LocationId: 3,
       salary: "From $60,000 a year to $155,000",
       summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-      long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+      long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
       updatedAt: new Date()
   },
   {
@@ -796,7 +796,7 @@ module.exports = {
       LocationId: 4,
       salary: "From $60,000 a year to $155,000",
       summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-      long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+      long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
       updatedAt: new Date()
   },
   {
@@ -944,7 +944,7 @@ module.exports = {
       LocationId: 6,
       salary: "From $60,000 a year to $155,000",
       summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-      long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+      long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
       updatedAt: new Date()
   },
   {
@@ -1092,7 +1092,7 @@ module.exports = {
     LocationId: 1,
     salary: "From $60,000 a year to $155,000",
     summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-    long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+    long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
     updatedAt: new Date()
 },
 {
@@ -1240,7 +1240,7 @@ module.exports = {
     LocationId: 5,
     salary: "From $60,000 a year to $155,000",
     summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-    long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+    long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
     updatedAt: new Date()
 },
 {
@@ -1388,7 +1388,7 @@ module.exports = {
     LocationId: 2,
     salary: "From $60,000 a year to $155,000",
     summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-    long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+    long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
     updatedAt: new Date()
 },
 {
@@ -1536,7 +1536,7 @@ module.exports = {
     LocationId: 3,
     salary: "From $60,000 a year to $155,000",
     summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-    long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+    long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
     updatedAt: new Date()
 },
 {
@@ -1684,7 +1684,7 @@ module.exports = {
     LocationId: 4,
     salary: "From $60,000 a year to $155,000",
     summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-    long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+    long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
     updatedAt: new Date()
 },
 {
@@ -1832,7 +1832,7 @@ module.exports = {
     LocationId: 6,
     salary: "From $60,000 a year to $155,000",
     summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-    long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+    long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
     updatedAt: new Date()
 },
 {
@@ -1980,7 +1980,7 @@ module.exports = {
   LocationId: 1,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -2128,7 +2128,7 @@ module.exports = {
   LocationId: 5,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -2276,7 +2276,7 @@ module.exports = {
   LocationId: 2,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -2424,7 +2424,7 @@ module.exports = {
   LocationId: 3,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -2572,7 +2572,7 @@ module.exports = {
   LocationId: 4,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -2720,7 +2720,7 @@ module.exports = {
   LocationId: 6,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -2868,7 +2868,7 @@ module.exports = {
   LocationId: 1,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -3016,7 +3016,7 @@ module.exports = {
   LocationId: 5,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -3164,7 +3164,7 @@ module.exports = {
   LocationId: 2,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -3312,7 +3312,7 @@ module.exports = {
   LocationId: 3,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -3460,7 +3460,7 @@ module.exports = {
   LocationId: 4,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -3608,7 +3608,7 @@ module.exports = {
   LocationId: 6,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -3756,7 +3756,7 @@ module.exports = {
   LocationId: 1,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -3904,7 +3904,7 @@ module.exports = {
   LocationId: 1,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -4052,7 +4052,7 @@ module.exports = {
   LocationId: 5,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -4200,7 +4200,7 @@ module.exports = {
   LocationId: 2,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -4348,7 +4348,7 @@ module.exports = {
   LocationId: 3,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -4496,7 +4496,7 @@ module.exports = {
   LocationId: 4,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -4644,7 +4644,7 @@ module.exports = {
   LocationId: 6,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -4792,7 +4792,7 @@ module.exports = {
   LocationId: 1,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -4940,7 +4940,7 @@ module.exports = {
   LocationId: 5,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -5088,7 +5088,7 @@ module.exports = {
   LocationId: 2,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -5236,7 +5236,7 @@ module.exports = {
   LocationId: 3,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -5384,7 +5384,7 @@ module.exports = {
   LocationId: 4,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
@@ -5532,7 +5532,7 @@ module.exports = {
   LocationId: 6,
   salary: "From $60,000 a year to $155,000",
   summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
-  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.",eatedAt: new Date(),
+  long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
   updatedAt: new Date()
 },
 {
