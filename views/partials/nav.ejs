@@ -3,14 +3,28 @@
     <div>
         <nav class="navbar navbar-expand-md" style="background-color: #FBE90F;">
             <div class="left-container container-fluid col-6">
-                <a href="index.html">
+                <a href="/">
                     <img src="/images/indubitably.png" alt="logo" class="logo">
                 </a>
                 
             </div>
             <div class=" right-container container-fluid col-6">
-                <a class="navbar-link" href="/users/register">Sign In</a>
-                <a class="navbar-link" href="/users/favorites">Favorites</a>
+                <% if (typeof user !== 'undefined') {  %>
+                    <a class="navbar-link profile tooltip-wrap" href="/">
+                        <img src="/images/LOGOUT2.png" alt="logout" class="logout img-fluid "><%= user%>
+                        <div class="tooltip-content">
+                            <p>Logout</p>
+                        </div> 
+                    </a>
+                    <a class="navbar-link tooltip-wrap" href="/users/favorites">
+                        Favorites
+                        <div class="tooltip-content">
+                            <p>Visit</p>
+                        </div>
+                    </a>
+                <% } else {     %>
+                    <a class="navbar-link profile" href="/users/register">Sign In</a>
+                <% }            %>
             </div>
         </nav> <!-- navbar end -->
     </div>
@@ -25,8 +39,7 @@
 
     <div class="container-fluid col-12">
         <form id="searchform" class="form-inline col-11">
-            <div class="input-group mb-4 what">
-                <label for="what" class="form-label"></label>
+            <div class="what input-group mb-4">
                 <span class="what input-group-text" id="what">What</span>
                 <input type="text" class=" w-60 form-control what-form" placeholder="Job title, keywords, or company"
                     aria-label="what" aria-describedby="basic-addon1">

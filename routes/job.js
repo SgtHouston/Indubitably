@@ -17,6 +17,29 @@ router.get('/', (req, res, next) => {
 
 
 
+// router.post('/', (req, res) => {
+
+//   document.addEventListener('click', (e) => {
+//     if (e.target.classList.contains('job-column')) {
+//         let jobID = e.target.dataset.id
+//         db.Job.findOne({
+//             where: {
+//                 id: req.body.id
+//             }
+//         })
+//             .then((job) => {
+
+//             })
+//     }
+// })
+
+
+// })
+
+
+
+
+
 
 
 
