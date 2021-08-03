@@ -25,10 +25,10 @@ module.exports = {
         type: Sequelize.STRING
       },
       summary: {
-        type: Sequelize.STRING
+        type: Sequelize.TEXT
       },
       long_description: {
-        type: Sequelize.STRING
+        type: Sequelize.TEXT
       },
       createdAt: {
         allowNull: false,
