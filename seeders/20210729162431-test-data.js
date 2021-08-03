@@ -69,7 +69,7 @@ module.exports = {
   ], {});
 
     await queryInterface.bulkInsert('Jobs', [{
-      title: "Backend Developer",
+      title: "Full-Stack Developer",
       company: "TechSolutions",
       LocationId: 1,
       salary: "From $68,000 a year to $90,000",
@@ -79,7 +79,7 @@ module.exports = {
       updatedAt: new Date()
   },
   {
-      title: "Backend Developer",
+      title: "Backend Engineer",
       company: "FadeBook",
       LocationId: 1,
       salary: "From $50,000 a year to $75,000",
@@ -89,7 +89,7 @@ module.exports = {
       updatedAt: new Date()
   },
   {
-      title: "Backend Developer",
+      title: "Frontend Developer",
       company: "Wall Street Tech",
       LocationId: 1,
       salary: "From $90,000 a year to $125,000",
@@ -109,8 +109,8 @@ module.exports = {
       updatedAt: new Date()
   },
   {
-      title: "Backend Developer",
-      company: "TechSolutionsPlus",
+      title: "Backend Engineer",
+      company: "City Electric Co",
       LocationId: 1,
       salary: "From $80,000 a year",
       summary: "The ideal candidate will have an interest in developing both strong backend development experience and good front end engineering skills with an interest in growing into a Full Stack Developer. ",
@@ -120,7 +120,7 @@ module.exports = {
   },
   {
       title: "Backend Developer",
-      company: "TechSolutionsPlus",
+      company: "TechSTAR",
       LocationId: 1,
       salary: "From $70,000 a year to $125,000",
       summary: "The ideal candidate will have an interest in developing both strong backend development experience and good front end engineering skills with an interest in growing into a Full Stack Developer. ",
@@ -218,7 +218,7 @@ module.exports = {
       updatedAt: new Date()
   },{
       title: "Backend Developer",
-      company: "TechSolutions",
+      company: "DigitalCrafts",
       LocationId: 5,
       salary: "From $68,000 a year to $90,000",
       summary: "The ideal candidate will have an interest in developing both strong backend development experience and good front end engineering skills with an interest in growing into a Full Stack Developer. ",
