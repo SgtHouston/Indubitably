@@ -6,30 +6,32 @@
 </head>
 
   <body>
-    <%-include('partials/nav') %>
-    <h1>test</h1>
-    <div class="container flex-box">
-      <h3>temporary register page</h2>
+    <%-include('partials/header') %>
+    <div class="container flex-box text-center">
+      <br>
+      <h3>Registration  Page</h2>
         <form action="/users/register" method="POST">
-          <label for="firstName">first name</label><br>
+          <label for="firstName">First Name</label><br>
           <input type="text" id="firstName" name="firstName" value=""><br>
-          <label for="lastName">last name</label><br>
+          <label for="lastName">Last Name</label><br>
           <input type="text" id="lastName" name="lastName" value=""><br>
-          <label for="email">email</label><br>
+          <label for="email">E-mail</label><br>
           <input type="text" id="email1" name="email" value="" autocomplete="username"><br>
-          <label for="password">password</label><br>
+          <label for="password">Password</label><br>
           <input type="password" id="password1" name="password" value="" autocomplete="current-password"><br><br>
           <input type="submit" value="register">
         </form>
         <br>
         <form action="/users/login" method="POST">
-          <label for="email">email</label><br>
+          <label for="email">E-mail</label><br>
           <input type="text" id="email2" name="email" value="" autocomplete="username"><br>
-          <label for="password">password</label><br>
+          <label for="password">Password</label><br>
           <input type="password" id="password2" name="password" value="" autocomplete="current-password"><br><br>
           <input type="submit" value="log in">
         </form>
     </div>
+
+    <%-include('partials/footer') %>
   </body>
 
 </html>
