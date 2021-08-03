@@ -102,7 +102,8 @@ router.get("/logout", (req, res) => {
   // tell express that the user logged out
   req.session.user = null;
   // send response to show it worked
-  res.json({ message: "successfully logged out" });
+  // res.json({ message: "successfully logged out" });
+  res.redirect("/");
 });
 
 // export module
