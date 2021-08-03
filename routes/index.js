@@ -1,24 +1,16 @@
-var express = require('express');
+var express = require("express");
 var router = express.Router();
-const db = require('../models')
-
+const db = require("../models");
 
 /* GET home page. */
-router.get('/', (req, res, next) => {
-    // first argument is template second is data passed into template
-    if (req.session.user != null) {
-        res.render('home', {
+router.get("/", async (req, res, next) => {
+  // first argument is template second is data passed into template
+  const locations = await db.Location.findAll({});
+  res.render("home", {
+    title: "INDUBITABLY",
+    user: req.session.user || undefined,
+    locations: locations,
+  });
+});
 
-            title: 'INDUBITABLY',
-            user: req.session.user
-        })
-    } else {
-        res.render('home', {
-
-            title: 'INDUBITABLY'
-        })
-    }
-})
-
-
-module.exports = router
+module.exports = router;
