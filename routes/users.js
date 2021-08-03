@@ -58,7 +58,7 @@ router.post("/register", async (req, res) => {
   });
 
   // res.json(newUser);
-  res.redirect("/registered.html");
+  res.redirect("/");
 });
 
 // login route

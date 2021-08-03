@@ -9,7 +9,7 @@ router.get('/', (req, res, next) => {
     res.render('home', {
 
         title: 'INDUBITABLY',
-        user: 'Chris'
+        user: req.session.user
     })
 })
 
