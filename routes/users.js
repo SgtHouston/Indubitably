@@ -9,7 +9,7 @@ router.get("/register", (req, res) => {
   res.render("register", {
     title: "Register",
   });
-  console.log(req.session.user)
+  // console.log(req.session.user)
 });
 
 // /register route (adds a user to the database)
@@ -110,17 +110,43 @@ router.get("/logout", (req, res) => {
 // User fav routes
 // Get Favorites Page
 router.get('/favorites', (req, res, next) => {
-  // first argument is template - second is data passed into template
-  // console.log(req.session)
-  console.log(req.session.user.id)
-  res.render('favorites', {
-      // job: job,
-      userid: req.session.user.id,
-      title: "Favorites",
-      // jobs: jobs,
-      // search: req.query.search || "",
-      // locationId: req.query.location,
-  })
+  db.Favorite.findAll({where: {UserId:req.session.user.id}})
+  .then((favorites) => {
+    // console.log(favorites)
+    const favs = []
+    favorites.forEach(favorite => {
+      favs.push(Number(favorite.dataValues.JobId))
+      
+    });
+    // Loop throught favorites and get each job id
+    console.log(favs)
+    db.Job.findAll({
+      where: {
+          id: favs
+      }})
+      .then((jobs) => {
+        console.log(jobs)
+        res.render('favorites', {
+          userid: req.session.user.id,
+          title: "Favorites",
+          jobs: favs
+          
+      })
+      })
+    // store those is an array OR an object
+    // feeed those to our database and ask for all the corresponding jobs
+    // Pass the jobs to our favorites.ejs view
+
+
+
+
+  //   res.render('favorites', {
+  //     userid: req.session.user.id,
+  //     favorites: favorites,
+  //     title: "Favorites",
+      
+  // })
+})
 })
 
 
