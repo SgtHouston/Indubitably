@@ -108,7 +108,15 @@ a.btn.btn-fav {
   border-color: #0801B8;
   margin-top: 10px;
   border-width: 5px;
-  
+}
+
+.btn.btn.btn-primary.col-2 {
+  max-height: 2.4rem;
+}
+
+.button-div {
+  display: flex;
+  justify-content: space-evenly;
 }
 
 /* Style the input fields */
