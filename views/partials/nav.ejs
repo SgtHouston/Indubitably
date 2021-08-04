@@ -46,6 +46,9 @@
         </div>
         <div class="where input-group mb-4">
             <select name="location" class="form-select">
+                <option class="dropdown-item" value="" <% if (locationId == "") {%>selected<%} %> >
+                    ANY LOCATION
+                </option>
                 <% locations.forEach((location)=> { %>
                     <option class="dropdown-item" value="<%= location.id %>" <% if (location.id == locationId) {%>selected<%} %> >
                         <%= location.city %>, <%= location.state %>

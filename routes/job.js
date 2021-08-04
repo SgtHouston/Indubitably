@@ -6,14 +6,18 @@ const { Op } = require("sequelize");
 /* GET home page. */
 router.get("/search", async (req, res, next) => {
   const locations = await db.Location.findAll();
+  const query = {
+    title: {
+      [Op.iLike]: "%" + req.query.search + "%",
+    }
+  } 
+  // if location exists 
+  if (req.query.location){
+    // add to query
+    query.LocationId = req.query.location
+  }
   const jobs = await db.Job.findAll({
-    where: {
-      // by job title
-      title: {
-        [Op.iLike]: "%" + req.query.search + "%",
-      },
-      LocationId: req.query.location || null,
-    },
+    where: query,
     include: [db.Location],
   });
   res.render("jobs", {
