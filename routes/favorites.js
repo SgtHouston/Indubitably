@@ -7,7 +7,8 @@ const db = require('../models')
 router.get('/users/favorites', (req, res, next) => {
     // first argument is template - second is data passed into template
     res.render('favorites', {
-        job: job
+        job: job,
+        userid: req.session.user.dataValues.id
     })
 })
 
