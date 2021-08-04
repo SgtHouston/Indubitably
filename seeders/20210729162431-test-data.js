@@ -77,7 +77,7 @@ module.exports = {
       long_description: "BASIC QUALIFICATIONS,Create Data Change Requests (DCR) and Structural Change Requests (SCR) required for interface development.Create/ Debug SQL queries, PL/SQL Packages, Procedures and Functions.Provide Java based solutions to enhance existing Interface framework, or for custom Java based solutions.",
       createdAt: new Date(),
       updatedAt: new Date()
-  },
+  }, 
   {
       title: "Backend Engineer",
       company: "FadeBook",
