@@ -106,5 +106,33 @@ router.get("/logout", (req, res) => {
   res.redirect("/");
 });
 
+
+// User fav routes
+// Get Favorites Page
+router.get('/favorites', (req, res, next) => {
+  // first argument is template - second is data passed into template
+  // console.log(req.session)
+  console.log(req.session.user.id)
+  res.render('favorites', {
+      // job: job,
+      userid: req.session.user.id,
+      title: "Favorites",
+      // jobs: jobs,
+      // search: req.query.search || "",
+      // locationId: req.query.location,
+  })
+})
+
+
+router.post('/:id/add', (req, res, next) => {
+  db.User.findByPk(1)
+  // req.session.user.id
+      .then((user) => {
+          user.createFavorite({
+              JobId: req.params.id
+          })
+      });
+})
+
 // export module
 module.exports = router;
