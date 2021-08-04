@@ -124,12 +124,17 @@ router.get('/favorites', (req, res, next) => {
 })
 
 
-router.post('/:id/add', (req, res, next) => {
-  db.User.findByPk(1)
+router.post('/favorites/:id/add', (req, res, next) => {
+  db.User.findByPk(req.session.user.id)
   // req.session.user.id
       .then((user) => {
           user.createFavorite({
               JobId: req.params.id
+          })
+          .then(()=>{
+            res.json({
+              Success: true
+            })
           })
       });
 })

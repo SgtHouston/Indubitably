@@ -1,7 +1,7 @@
 // const e = require("express")
 
 function saveToFavorites(jobID) {
-    console.log(jobID)
+    // console.log(jobID)
     // const job = jobData.find(function(currentJob){ 
     //     return currentJob.job.id == jobID; 
     // });
@@ -17,14 +17,14 @@ function saveToFavorites(jobID) {
     
     
 }
-//const favIcons = document.getElementsByClassName("save")
+
 document.querySelectorAll('.save').forEach(item => {
     item.addEventListener('click', event => {
         event.preventDefault()
         console.log('hear clicked')
         const saveButton = event.target.closest('.save')
         const id = saveButton.dataset.jobId
-        fetch(`/api/v1/favorites/${id}/add`, {
+        fetch(`/users/favorites/${id}/add`, {
             method: "POST"
         })
             .then(res => res.json())
@@ -34,14 +34,14 @@ document.querySelectorAll('.save').forEach(item => {
 
     })
 })
-console.log("favorite script loadded")
+console.log("favorite script loaded")
 
 
-//favIcon.addEventListener("click", (e) => {
-    //e.preventDefault()
-    // if (e.target.classList.contains("save")) {
-    //     saveToFavorites(e.target.dataset.jobID)
-    // }
-    //console.log("favIcon")
-    //});
-    //console.log("favorite.js")
+// favIcon.addEventListener("click", (e) => {
+//     e.preventDefault()
+//     if (e.target.classList.contains("save")) {
+//         saveToFavorites(e.target.dataset.jobID)
+//     }
+//     console.log("favIcon")
+//     });
+//     console.log("favorite.js")
