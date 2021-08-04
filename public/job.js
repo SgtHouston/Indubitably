@@ -39,9 +39,3 @@ document.addEventListener('click', (e) => {
     })
 
 console.log("favorite script loaded")
-
-// document.addEventListener("click", (e) => {
-//     if (e.target.classList.contains("save")) {
-//         saveToFavorites.target.dataset.jobID
-//     }
-//     })
