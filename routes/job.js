@@ -21,6 +21,7 @@ router.get("/search", async (req, res, next) => {
     include: [db.Location],
   });
   res.render("jobs", {
+    user: req.session.user || undefined,
     locations: locations,
     title: "Jobs",
     jobs: jobs,
