@@ -79,14 +79,14 @@ router.post("/login", (req, res) => {
     },
   }).then((user) => {
     // check user password
-    console.log(req.session);
+    // console.log(req.session);
     bcrypt
       .compare(req.body.password, user.dataValues.password)
       .then((success) => {
         if (success) {
           // log in user
           req.session.user = user;
-          console.log(user);
+          console.log(req.session.user.dataValues.id);
           // res.json({ message: 'successfully logged in' })
           res.redirect("/");
         } else {
