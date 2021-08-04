@@ -10,6 +10,8 @@ router.get("/", async (req, res, next) => {
     title: "INDUBITABLY",
     user: req.session.user || undefined,
     locations: locations,
+    search: req.query.search || "",
+    locationId: req.query.location || ""
   });
 });
 
