@@ -1,6 +1,6 @@
 body {
   margin: 0%;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: auto "Lucida Grande", Helvetica, Arial, sans-serif;
   height: 100%;
   display: flex;
   flex-direction: column;
@@ -13,6 +13,11 @@ body {
 }
 .header-text {
   color: #0801B8;
+}
+
+.fav-display {
+  display: flex;
+  flex-direction: column;
 }
 
 .results {
@@ -164,11 +169,17 @@ a.btn.btn-fav {
   transform: scale(1.03);
   box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
 }
+
+select.form-select {
+  border-radius: 10px;
+}
+
 .jobsearch {
   justify-content: center;
   margin-left: 15%;
   margin-right: 15%;
 }
+
 .pill {
   background-color: #FAE711;
   border-radius: 15px;
@@ -179,9 +190,8 @@ a.btn.btn-fav {
 
 /* Add responsiveness - display the form controls vertically instead of horizontally on screens that are less than 800px wide */
 @media (max-width: 768px) {
-
   .form-inline input {
-    height: 4rem;
+    height: 3rem;
   }
 
   .form-inline {
@@ -193,6 +203,30 @@ a.btn.btn-fav {
     max-width: 15rem;
     justify-content: flex-start;
   }
+  .button-div {
+    flex-direction: column;
+    align-content: space-around;
+    min-height: 10rem;
+  }
+
+  select.form-select {
+    min-height: 3rem;
+  }
+
+  button {
+    font-size:3vw
+  }
+  .btn.btn.btn-primary.col-2 {
+    min-height: 3rem;
+  }
+
+  .card-body {
+    font-size:2vw
+  }
+  .card-title .card-header {
+    font-size:2vw
+  }
+
 }
 
 .pre-footer {

@@ -9,63 +9,124 @@
             <h1 class="text-center header-text">
                 <%= title %>
             </h1>
-            <% jobs.forEach((job)=> { %>
 
-                <div class="row">
-                    <div class="col-6 results">
-                        <div class="card col-8 cards-container ">
-                            <div class="card-body job-column" data-id="<%= job.id %>">
-                                <h5 class="card-title">
-                                    <%=job.title %>
-                                </h5>
-                                <br>
-                                <p class="card-text">
-                                    Location: <%=job.Location.city %>, <%=job.Location.state %>
-                                </p>
-                                <br>
-                                <p class="card-text">
-                                    <%=job.summary %>
-                                </p>
+            <% if (typeof user !== 'undefined') {  %>
+                <% jobs.forEach((job)=> { %>
+
+                    <div class="row">
+                        <div class="col-6 results">
+                            <div class="card col-8 cards-container ">
+                                <div class="card-body job-column" data-id="<%= job.id %>">
+                                    <h5 class="card-title">
+                                        <%=job.title %>
+                                    </h5>
+                                    <br>
+                                    <p class="card-text">
+                                        Location: <%=job.Location.city %>, <%=job.Location.state %>
+                                    </p>
+                                    <br>
+                                    <p class="card-text">
+                                        <%=job.summary %>
+                                    </p>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-6 results-popup">
-                        <div class="card col-8 job-details d-none cards-container" id="job-<%= job.id %>">
-                            <div class="card-body">
-                                <h5 class="card-header text-center">
-                                    <span class="text-center">
-                                        <%=job.title %>
-                                    </span>
-                            
-                                </h5>
-                                <p class="card-text text-center">
-                                    Company: <%=job.company %>
-                                </p>
-                                <br>
-                                <p class="card-text text-center">
-                                    Salary: <%=job.salary %>
-                                </p>
-                                <br>
-                                <p class="card-text text-center">
-                                    Description: <%=job.long_description %>
-                                </p>
-                                <br>
-                                <div class="button-div">
-                                    <button type="button" class="btn btn-primary btn-md">
-                                        Apply Now
-                                    </button>
-                                    <button type="button" class="btn btn-primary btn-md save" data-id="<%= job.id %>">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-suit-heart-fill" viewBox="0 0 16 16">
-                                            <path d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z"/>
-                                        </svg> Save To Favorites
-                                    </button>
+                        <div class="col-6 results-popup">
+                            <div class="card col-8 job-details d-none cards-container" id="job-<%= job.id %>">
+                                <div class="card-body">
+                                    <h5 class="card-header text-center">
+                                        <span class="text-center">
+                                            <%=job.title %>
+                                        </span>
+                                
+                                    </h5>
+                                    <p class="card-text text-center">
+                                        Company: <%=job.company %>
+                                    </p>
+                                    <br>
+                                    <p class="card-text text-center">
+                                        Salary: <%=job.salary %>
+                                    </p>
+                                    <br>
+                                    <p class="card-text text-center">
+                                        Description: <%=job.long_description %>
+                                    </p>
+                                    <br>
+                                    <div class="button-div">
+                                        <button type="button" class="btn btn-primary btn-md">
+                                            Apply Now
+                                        </button>
+                                        <button type="button" class="btn btn-primary btn-md save" data-id="<%= job.id %>">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-suit-heart-fill" viewBox="0 0 16 16">
+                                                <path d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z"/>
+                                            </svg> Save To Favorites
+                                        </button>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
 
-                <% })%>
+                    <% })%>
+                    <% } else {%> 
+                        <% jobs.forEach((job)=> { %>
+
+                            <div class="row">
+                                <div class="col-6 results">
+                                    <div class="card col-8 cards-container ">
+                                        <div class="card-body job-column" data-id="<%= job.id %>">
+                                            <h5 class="card-title">
+                                                <%=job.title %>
+                                            </h5>
+                                            <br>
+                                            <p class="card-text">
+                                                Location: <%=job.Location.city %>, <%=job.Location.state %>
+                                            </p>
+                                            <br>
+                                            <p class="card-text">
+                                                <%=job.summary %>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-6 results-popup">
+                                    <div class="card col-8 job-details d-none cards-container" id="job-<%= job.id %>">
+                                        <div class="card-body">
+                                            <h5 class="card-header text-center">
+                                                <span class="text-center">
+                                                    <%=job.title %>
+                                                </span>
+                                        
+                                            </h5>
+                                            <p class="card-text text-center">
+                                                Company: <%=job.company %>
+                                            </p>
+                                            <br>
+                                            <p class="card-text text-center">
+                                                Salary: <%=job.salary %>
+                                            </p>
+                                            <br>
+                                            <p class="card-text text-center">
+                                                Description: <%=job.long_description %>
+                                            </p>
+                                            <br>
+                                            <div class="button-div">
+                                                <button type="button" class="btn btn-primary btn-md">
+                                                    Apply Now
+                                                </button>
+                                                <!-- <button type="button" class="btn btn-primary btn-md save" data-id="<%= job.id %>">
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-suit-heart-fill" viewBox="0 0 16 16">
+                                                        <path d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z"/>
+                                                    </svg> Save To Favorites
+                                                </button> -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+        
+                            <% })%>
+                    <% } %> 
         <%-include('partials/footer') %>
     </body>
 

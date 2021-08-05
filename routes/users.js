@@ -9,7 +9,7 @@ router.get("/register", (req, res) => {
   res.render("register", {
     title: "Register",
   });
-  // console.log(req.session.user)
+
 });
 
 // /register route (adds a user to the database)
@@ -79,19 +79,19 @@ router.post("/login", (req, res) => {
     },
   }).then((user) => {
     // check user password
-    // console.log(req.session);
+    
     bcrypt
       .compare(req.body.password, user.dataValues.password)
       .then((success) => {
         if (success) {
           // log in user
           req.session.user = user;
-          console.log(req.session.user.dataValues.id);
           // res.json({ message: 'successfully logged in' })
           res.redirect("/");
         } else {
           // user entered wrong password
           res.status(401).json({ error: "incorrect password" });
+          
         }
       });
   });
@@ -109,45 +109,33 @@ router.get("/logout", (req, res) => {
 
 // User fav routes
 // Get Favorites Page
-router.get('/favorites', (req, res, next) => {
+router.get('/favorites', async (req, res, next) => {
   db.Favorite.findAll({where: {UserId:req.session.user.id}})
   .then((favorites) => {
-    // console.log(favorites)
-    const favs = []
+    const userFavJobs = []
+    // Loop through favorites and get each job id
     favorites.forEach(favorite => {
-      favs.push(Number(favorite.dataValues.JobId))
-      
+      userFavJobs.push(favorite.dataValues.JobId)
     });
-    // Loop throught favorites and get each job id
-    console.log(favs)
+    // store those job ids in an array OR an object
+    // feed those to our database and ask for all the corresponding jobs
     db.Job.findAll({
       where: {
-          id: favs
-      }})
+        id: userFavJobs
+      }
+    })
+      // Pass the userFavJobs to our favorites.ejs view
       .then((jobs) => {
-        console.log(jobs)
         res.render('favorites', {
           userid: req.session.user.id,
           title: "Favorites",
-          jobs: favs
+          jobs: jobs,
           
+        })
       })
-      })
-    // store those is an array OR an object
-    // feeed those to our database and ask for all the corresponding jobs
-    // Pass the jobs to our favorites.ejs view
-
-
-
-
-  //   res.render('favorites', {
-  //     userid: req.session.user.id,
-  //     favorites: favorites,
-  //     title: "Favorites",
-      
-  // })
+  })
 })
-})
+
 
 
 router.post('/favorites/:id/add', (req, res, next) => {
@@ -164,6 +152,7 @@ router.post('/favorites/:id/add', (req, res, next) => {
           })
       });
 })
+
 
 // export module
 module.exports = router;

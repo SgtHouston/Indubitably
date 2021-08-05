@@ -22,7 +22,7 @@ document.addEventListener('click', (e) => {
         if (favButton){
 
             event.preventDefault()
-            console.log('hear clicked')
+            
 
             
             const id = favButton.dataset.id
@@ -31,11 +31,10 @@ document.addEventListener('click', (e) => {
             })
                 .then(res => res.json())
                 .then(data => {
-                    console.log(data)
                     favButton.remove()
                 })
         }
 
     })
 
-console.log("favorite script loaded")
+
