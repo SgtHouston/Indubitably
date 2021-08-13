@@ -130,6 +130,7 @@ router.get('/favorites', async (req, res, next) => {
           userid: req.session.user.id,
           title: "Favorites",
           jobs: jobs,
+          user: req.session.user || undefined,
           
         })
       })

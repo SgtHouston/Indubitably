@@ -9,7 +9,7 @@
                 
             </div>
             <div class=" right-container container-fluid col-6">
-                <% if (typeof user !== 'undefined') {  %>
+                <% if (typeof user !== 'undefined' && typeof user !=='null') {  %>
                     <a class="navbar-link profile tooltip-wrap" href="/users/logout">
                         <img src="/images/LOGOUT2.png" alt="logout" class="logout img-fluid "><%= user.firstName %>
                         <div class="tooltip-content">
