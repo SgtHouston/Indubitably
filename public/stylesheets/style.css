@@ -111,7 +111,7 @@ div.right-container.container-fluid {
 
 a.btn.btn-fav {
   border-color: #0801B8;
-  margin-top: 10px;
+  margin-top: 5px;
   border-width: 5px;
 }
 
@@ -206,7 +206,7 @@ select.form-select {
   .button-div {
     flex-direction: column;
     align-content: space-around;
-    min-height: 10rem;
+    min-height: 8rem;
   }
 
   select.form-select {
@@ -214,13 +214,13 @@ select.form-select {
   }
 
   button {
-    font-size:3vw
+    font-size:2vw
   }
   .btn.btn.btn-primary.col-2 {
-    min-height: 3rem;
+    min-height: 2vw;
   }
 
-  .card-body {
+  .card-body .card-text {
     font-size:2vw
   }
   .card-title .card-header {
@@ -256,8 +256,8 @@ img:hover + .bubble {
 }
 
 .card.cards-container {
-  border-width: 10px;
-	border-radius: 20px;
+  border-width: 5px;
+	border-radius: 10px;
   background-color:#FAE711;
 	border-color: #0801B8;
   margin-bottom: 1rem;
