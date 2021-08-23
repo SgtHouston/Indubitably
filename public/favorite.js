@@ -16,41 +16,6 @@ document.querySelectorAll('.save').forEach(item => {
     })
 })
 
-
-// Grab each unsave button on the page
-document.querySelectorAll('.unsave').forEach(item => {
-    // add an event listener to each unsave button
-    item.addEventListener('click', event => {
-        event.preventDefault()
-        // make unsave button variable 
-        const unSaveButton = event.target.closest('.unsave')
-        // assign the selected job's jobId to variable
-        const id =unSaveButton.dataset.jobId
-        console.log(id)
-        // Delete jobID from favorites
-        fetch(`/users/favorites/${id}/delete`, {
-            method: "DELETE"
-        })
-            .then(res => res.json())
-            .then(data => {
-                return
-            })
-    })
-})
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Displaying favorite jobs extra info on click
 document.addEventListener('click', (e) => {
     const jobColumn = e.target.closest('.job-column')
@@ -65,3 +30,28 @@ document.addEventListener('click', (e) => {
         jobDetails.classList.remove("d-none")
     }
 })
+
+
+
+// Deletes jobs from favorites after clicking unsave button
+document.addEventListener('click', event => {
+    if (event.target.classList.contains('unsave')) {
+        // get id to be deleted from button
+        const id = event.target.dataset.id
+        console.log(id)
+        // GRABS CORRECT JOBID 
+        // delete
+        fetch(`/users/favorites/${id}/del`, {
+            method: 'DELETE'
+        })
+            .then(res => !res.ok && res.json())
+            .then(data => {
+                if (data.error) {
+                    alert(data.error)
+                }
+                // refresh page
+                location.reload();
+            })
+    }
+})
+

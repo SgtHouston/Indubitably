@@ -15,11 +15,11 @@
 
                     <div class="row">
                         <div class="col-6 results">
-                            <div class="card col-8 cards-container ">
+                            <div class="card col-11 cards-container ">
                                 <div class="card-body job-column" data-id="<%= job.id %>">
-                                    <h5 class="card-title">
+                                    <p class=" card-text card-title">
                                         <%=job.title %>
-                                    </h5>
+                                    </p>
                                     <br>
                                     <p class="card-text">
                                         Location: <%=job.Location.city %>, <%=job.Location.state %>
@@ -32,14 +32,14 @@
                             </div>
                         </div>
                         <div class="col-6 results-popup">
-                            <div class="card col-8 job-details d-none cards-container" id="job-<%= job.id %>">
+                            <div class="card col-11 job-details d-none cards-container" id="job-<%= job.id %>">
                                 <div class="card-body">
-                                    <h5 class="card-header text-center">
-                                        <span class="text-center">
+                                    <p class="card-header text-center">
+                                        <span class="card-text text-center">
                                             <%=job.title %>
                                         </span>
                                 
-                                    </h5>
+                                    </p>
                                     <p class="card-text text-center">
                                         Company: <%=job.company %>
                                     </p>

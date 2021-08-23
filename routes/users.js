@@ -154,6 +154,26 @@ router.post('/favorites/:id/add', (req, res, next) => {
       });
 })
 
+router.delete('/favorites/:id/del', (req, res, next) => {
+  // find favorite by user id
+  db.Favorite.findOne({
+    where: {
+      UserId : req.session.user.id,
+      JobId: req.params.id
+
+    }
+  })
+  // req.session.user.id
+      .then((favorite) => {
+          favorite.destroy()
+          .then(()=>{
+            res.json({
+              Success: true
+            })
+          })
+      });
+})
+
 
 // export module
 module.exports = router;

@@ -301,7 +301,7 @@ module.exports = {
       company: "Digital Intelligence Systems LLC",
       LocationId: 5,
       salary: "From $70,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -321,7 +321,7 @@ module.exports = {
       company: "Digital-Crafts",
       LocationId: 5,
       salary: "From $90,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -449,7 +449,7 @@ module.exports = {
       company: "Digital Intelligence Systems LLC",
       LocationId: 2,
       salary: "From $70,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -469,7 +469,7 @@ module.exports = {
       company: "Digital-Crafts",
       LocationId: 2,
       salary: "From $90,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -597,7 +597,7 @@ module.exports = {
       company: "Digital Intelligence Systems LLC",
       LocationId: 3,
       salary: "From $70,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -617,7 +617,7 @@ module.exports = {
       company: "Digital-Crafts",
       LocationId: 3,
       salary: "From $90,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -745,7 +745,7 @@ module.exports = {
       company: "Digital Intelligence Systems LLC",
       LocationId: 4,
       salary: "From $70,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -765,7 +765,7 @@ module.exports = {
       company: "Digital-Crafts",
       LocationId: 4,
       salary: "From $90,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -893,7 +893,7 @@ module.exports = {
       company: "Digital Intelligence Systems LLC",
       LocationId: 6,
       salary: "From $70,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -913,7 +913,7 @@ module.exports = {
       company: "Digital-Crafts",
       LocationId: 6,
       salary: "From $90,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -937,8 +937,8 @@ module.exports = {
       long_description: "BASIC QUALIFICATIONS,· 5+ years of industry experience as an engineerExperience developing responsive web experiencesKnowledge of design patterns, algorithms, object-oriented programming, and front-end development best practicesProficiency developing Web experiences with ReactBasic knowledge of UI/UX standards ",
       createdAt: new Date(),
       updatedAt: new Date()
-  },
-  {
+},
+{
       title: "Backend Developer ",
       company: "TECH Solutions ",
       LocationId: 6,
@@ -946,8 +946,8 @@ module.exports = {
       summary: "Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you ",
       long_description: "BASIC QUALIFICATIONS, · Excellent problem solving skills.Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.Able to work in a diverse teamExperience being the tech lead for software development teams.Understanding of system architecture and experience with large distributed systems.Experience in forecasting, machine learning, or operations research.Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.", createdAt: new Date(),
       updatedAt: new Date()
-  },
-  {
+},
+{
       title: "Backend Developer ",
       company: "Amazon",
       LocationId: 6,
@@ -956,7 +956,8 @@ module.exports = {
       long_description: "BASIC QUALIFICATIONS,· Bachelor’s degree in Computer Science, Computer Engineering or related technical discipline.· 1+ years industry experience as a Software Engineer or Software Developer (SDE)· Strong Computer Science and development fundamentals, including object-oriented design, data structures, algorithm design, and complexity analysis.· Demonstrated proficiency in, at least, one modern programming language such as Java, Python, C++, C.· Knowledge of professional software engineering and best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations. ",
       createdAt: new Date(),
       updatedAt: new Date()
-  },{
+},
+{
     title: "Full-Stack Engineer",
     company: "TechSolutions",
     LocationId: 1,
@@ -1189,7 +1190,7 @@ module.exports = {
     company: "Digital Intelligence Systems LLC",
     LocationId: 5,
     salary: "From $70,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -1209,7 +1210,7 @@ module.exports = {
     company: "Digital-Crafts",
     LocationId: 5,
     salary: "From $90,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -1337,7 +1338,7 @@ module.exports = {
     company: "Digital Intelligence Systems LLC",
     LocationId: 2,
     salary: "From $70,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -1357,7 +1358,7 @@ module.exports = {
     company: "Digital-Crafts",
     LocationId: 2,
     salary: "From $90,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -1485,7 +1486,7 @@ module.exports = {
     company: "Digital Intelligence Systems LLC",
     LocationId: 3,
     salary: "From $70,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -1505,7 +1506,7 @@ module.exports = {
     company: "Digital-Crafts",
     LocationId: 3,
     salary: "From $90,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -1633,7 +1634,7 @@ module.exports = {
     company: "Digital Intelligence Systems LLC",
     LocationId: 4,
     salary: "From $70,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -1653,7 +1654,7 @@ module.exports = {
     company: "Digital-Crafts",
     LocationId: 4,
     salary: "From $90,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -1781,7 +1782,7 @@ module.exports = {
     company: "Digital Intelligence Systems LLC",
     LocationId: 6,
     salary: "From $70,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -1801,7 +1802,7 @@ module.exports = {
     company: "Digital-Crafts",
     LocationId: 6,
     salary: "From $90,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -1844,7 +1845,8 @@ module.exports = {
     long_description: "BASIC QUALIFICATIONS,· Bachelor’s degree in Computer Science, Computer Engineering or related technical discipline.· 1+ years industry experience as a Software Engineer or Software Developer (SDE)· Strong Computer Science and development fundamentals, including object-oriented design, data structures, algorithm design, and complexity analysis.· Demonstrated proficiency in, at least, one modern programming language such as Java, Python, C++, C.· Knowledge of professional software engineering and best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations. ",
     createdAt: new Date(),
     updatedAt: new Date()
-},{
+},
+{
   title: "Full-Stack Developer",
   company: "TechSolutions",
   LocationId: 1,
@@ -2077,7 +2079,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 5,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -2097,7 +2099,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 5,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "The ideal candidate will have an interest in developing both strong backend development experience and good front end engineering skills with an interest in growing into a Full Stack Developer. ",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -2225,7 +2227,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 2,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -2245,7 +2247,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 2,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -2373,7 +2375,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 3,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -2393,7 +2395,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 3,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -2521,7 +2523,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 4,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -2541,7 +2543,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 4,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -2669,7 +2671,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 6,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -2689,7 +2691,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 6,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -2965,7 +2967,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 5,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -2985,7 +2987,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 5,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -3113,7 +3115,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 2,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -3133,7 +3135,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 2,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -3261,7 +3263,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 3,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -3281,7 +3283,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 3,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -3409,7 +3411,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 4,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -3429,7 +3431,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 4,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -3557,7 +3559,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 6,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -3577,7 +3579,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 6,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -4001,7 +4003,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 5,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -4021,7 +4023,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 5,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -4149,7 +4151,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 2,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -4169,7 +4171,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 2,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "The ideal candidate will have an interest in developing both strong backend development experience and good front end engineering skills with an interest in growing into a Full Stack Developer. ",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -4297,7 +4299,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 3,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -4317,7 +4319,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 3,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -4445,7 +4447,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 4,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -4465,7 +4467,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 4,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -4593,7 +4595,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 6,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -4613,7 +4615,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 6,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -4889,7 +4891,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 5,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -4909,7 +4911,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 5,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -5037,7 +5039,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 2,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -5057,7 +5059,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 2,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -5185,7 +5187,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 3,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -5205,7 +5207,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 3,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -5333,7 +5335,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 4,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -5353,7 +5355,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 4,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -5481,7 +5483,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 6,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -5501,7 +5503,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 6,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -5544,7 +5546,8 @@ module.exports = {
   long_description: "BASIC QUALIFICATIONS,· Bachelor’s degree in Computer Science, Computer Engineering or related technical discipline.· 1+ years industry experience as a Software Engineer or Software Developer (SDE)· Strong Computer Science and development fundamentals, including object-oriented design, data structures, algorithm design, and complexity analysis.· Demonstrated proficiency in, at least, one modern programming language such as Java, Python, C++, C.· Knowledge of professional software engineering and best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations. ",
   createdAt: new Date(),
   updatedAt: new Date()
-},{
+},
+{
   title: "Frontend Engineer",
   company: "Snoogle",
   LocationId: 1,
@@ -5745,7 +5748,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 5,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -5873,7 +5876,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 2,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -5893,7 +5896,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 2,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -5933,7 +5936,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 3,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -5953,7 +5956,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 3,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -6081,7 +6084,7 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 4,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -6101,7 +6104,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 4,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -6229,13 +6232,12 @@ module.exports = {
   company: "Digital Intelligence Systems LLC",
   LocationId: 6,
   salary: "From $70,000 a year to $125,000",
-  summary: " ",
+  summary: "HTML, CSS, JavaScript, Python, React",
   long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
   createdAt: new Date(),
   updatedAt: new Date()
 },
-
-  {
+{
   title: "Frontend Engineer",
   company: "SortTech (Sortation Technology)",
   LocationId: 6,
@@ -6243,7 +6245,8 @@ module.exports = {
   summary: "Our team, SortTech (Sortation Technology), builds the technology that enables manual and automated sortation, containerization, loading and unloading processes at over 2k nodes in Amazon’s worldwide transportation network - Fulfillment Centers (FCs), IXDs (Inbound Receive Centers), Sort Centers (SCs), Amazon Air Gateways and Delivery Stations (DSs). We also build visibility platforms that enable operations managers to monitor and refine their volume, staffing and building configurations to optimize their operational processes. ",
   long_description: "BASIC QUALIFICATIONS, Bachelor’s degree or higher in Computer Science, Engineering or related field 7+ years professional experience in commercial or web- scale system software development and deliveryProven object - oriented design and implementation skills(Java, and / or C++) Proven understanding of scalable computing systems, software architecture, data structures and algorithms Proficient in network, distributed, asynchronous and concurrent programming Experience designing, building and delivering high quality software on time Solid verbal and written communication skills", createdAt: new Date(),
   updatedAt: new Date()
-  },{
+},
+{
     title: "Frontend Developer",
     company: "Snoogle",
     LocationId: 1,
@@ -6444,7 +6447,7 @@ module.exports = {
     company: "Digital-Crafts",
     LocationId: 5,
     salary: "From $90,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -6572,7 +6575,7 @@ module.exports = {
     company: "Digital Intelligence Systems LLC",
     LocationId: 2,
     salary: "From $70,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -6592,7 +6595,7 @@ module.exports = {
     company: "Digital-Crafts",
     LocationId: 2,
     salary: "From $90,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -6632,7 +6635,7 @@ module.exports = {
     company: "Digital Intelligence Systems LLC",
     LocationId: 3,
     salary: "From $70,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -6652,7 +6655,7 @@ module.exports = {
     company: "Digital-Crafts",
     LocationId: 3,
     salary: "From $90,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -6780,7 +6783,7 @@ module.exports = {
     company: "Digital Intelligence Systems LLC",
     LocationId: 4,
     salary: "From $70,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -6800,7 +6803,7 @@ module.exports = {
     company: "Digital-Crafts",
     LocationId: 4,
     salary: "From $90,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -6928,7 +6931,7 @@ module.exports = {
     company: "Digital Intelligence Systems LLC",
     LocationId: 6,
     salary: "From $70,000 a year to $125,000",
-    summary: " ",
+    summary: "HTML, CSS, JavaScript, Python, React",
     long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
     createdAt: new Date(),
     updatedAt: new Date()
@@ -7143,7 +7146,7 @@ module.exports = {
       company: "Digital-Crafts",
       LocationId: 5,
       salary: "From $90,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -7271,7 +7274,7 @@ module.exports = {
       company: "Digital Intelligence Systems LLC",
       LocationId: 2,
       salary: "From $70,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -7291,7 +7294,7 @@ module.exports = {
       company: "Digital-Crafts",
       LocationId: 2,
       salary: "From $90,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -7331,7 +7334,7 @@ module.exports = {
       company: "Digital Intelligence Systems LLC",
       LocationId: 3,
       salary: "From $70,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -7351,7 +7354,7 @@ module.exports = {
       company: "Digital-Crafts",
       LocationId: 3,
       salary: "From $90,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -7479,7 +7482,7 @@ module.exports = {
       company: "Digital Intelligence Systems LLC",
       LocationId: 4,
       salary: "From $70,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -7499,7 +7502,7 @@ module.exports = {
       company: "Digital-Crafts",
       LocationId: 4,
       salary: "From $90,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -7627,7 +7630,7 @@ module.exports = {
       company: "Digital Intelligence Systems LLC",
       LocationId: 6,
       salary: "From $70,000 a year to $125,000",
-      summary: " ",
+      summary: "HTML, CSS, JavaScript, Python, React",
       long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
       createdAt: new Date(),
       updatedAt: new Date()
@@ -7842,7 +7845,7 @@ module.exports = {
         company: "Digital-Crafts",
         LocationId: 5,
         salary: "From $90,000 a year to $125,000",
-        summary: " ",
+        summary: "The ideal candidate will have an interest in developing both strong backend development experience and good front end engineering skills with an interest in growing into a Full Stack Developer. ",
         long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
         createdAt: new Date(),
         updatedAt: new Date()
@@ -7970,7 +7973,7 @@ module.exports = {
         company: "Digital Intelligence Systems LLC",
         LocationId: 2,
         salary: "From $70,000 a year to $125,000",
-        summary: " ",
+        summary: "HTML, CSS, JavaScript, Python, React",
         long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
         createdAt: new Date(),
         updatedAt: new Date()
@@ -7990,7 +7993,7 @@ module.exports = {
         company: "Digital-Crafts",
         LocationId: 2,
         salary: "From $90,000 a year to $125,000",
-        summary: " ",
+        summary: "HTML, CSS, JavaScript, Python, React",
         long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
         createdAt: new Date(),
         updatedAt: new Date()
@@ -8030,7 +8033,7 @@ module.exports = {
         company: "Digital Intelligence Systems LLC",
         LocationId: 3,
         salary: "From $70,000 a year to $125,000",
-        summary: " ",
+        summary: "HTML, CSS, JavaScript, Python, React",
         long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
         createdAt: new Date(),
         updatedAt: new Date()
@@ -8050,7 +8053,7 @@ module.exports = {
         company: "Digital-Crafts",
         LocationId: 3,
         salary: "From $90,000 a year to $125,000",
-        summary: " ",
+        summary: "HTML, CSS, JavaScript, Python, React",
         long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
         createdAt: new Date(),
         updatedAt: new Date()
@@ -8178,7 +8181,7 @@ module.exports = {
         company: "Digital Intelligence Systems LLC",
         LocationId: 4,
         salary: "From $70,000 a year to $125,000",
-        summary: " ",
+        summary: "HTML, CSS, JavaScript, Python, React",
         long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
         createdAt: new Date(),
         updatedAt: new Date()
@@ -8198,7 +8201,7 @@ module.exports = {
         company: "Digital-Crafts",
         LocationId: 4,
         salary: "From $90,000 a year to $125,000",
-        summary: " ",
+        summary: "HTML, CSS, JavaScript, Python, React",
         long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
         createdAt: new Date(),
         updatedAt: new Date()
@@ -8326,7 +8329,7 @@ module.exports = {
         company: "Digital Intelligence Systems LLC",
         LocationId: 6,
         salary: "From $70,000 a year to $125,000",
-        summary: " ",
+        summary: "HTML, CSS, JavaScript, Python, React",
         long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
         createdAt: new Date(),
         updatedAt: new Date()
@@ -8541,7 +8544,7 @@ module.exports = {
           company: "Digital-Crafts",
           LocationId: 5,
           salary: "From $90,000 a year to $125,000",
-          summary: " ",
+          summary: "HTML, CSS, JavaScript, Python, React",
           long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
           createdAt: new Date(),
           updatedAt: new Date()
@@ -8669,7 +8672,7 @@ module.exports = {
           company: "Digital Intelligence Systems LLC",
           LocationId: 2,
           salary: "From $70,000 a year to $125,000",
-          summary: " ",
+          summary: "HTML, CSS, JavaScript, Python, React",
           long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
           createdAt: new Date(),
           updatedAt: new Date()
@@ -8689,7 +8692,7 @@ module.exports = {
           company: "Digital-Crafts",
           LocationId: 2,
           salary: "From $90,000 a year to $125,000",
-          summary: " ",
+          summary: "HTML, CSS, JavaScript, Python, React",
           long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
           createdAt: new Date(),
           updatedAt: new Date()
@@ -8729,7 +8732,7 @@ module.exports = {
           company: "Digital Intelligence Systems LLC",
           LocationId: 3,
           salary: "From $70,000 a year to $125,000",
-          summary: " ",
+          summary: "HTML, CSS, JavaScript, Python, React",
           long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
           createdAt: new Date(),
           updatedAt: new Date()
@@ -8749,7 +8752,7 @@ module.exports = {
           company: "Digital-Crafts",
           LocationId: 3,
           salary: "From $90,000 a year to $125,000",
-          summary: " ",
+          summary: "HTML, CSS, JavaScript, Python, React",
           long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
           createdAt: new Date(),
           updatedAt: new Date()
@@ -8877,7 +8880,7 @@ module.exports = {
           company: "Digital Intelligence Systems LLC",
           LocationId: 4,
           salary: "From $70,000 a year to $125,000",
-          summary: " ",
+          summary: "HTML, CSS, JavaScript, Python, React",
           long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
           createdAt: new Date(),
           updatedAt: new Date()
@@ -8897,7 +8900,7 @@ module.exports = {
           company: "Digital-Crafts",
           LocationId: 4,
           salary: "From $90,000 a year to $125,000",
-          summary: " ",
+          summary: "HTML, CSS, JavaScript, Python, React",
           long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
           createdAt: new Date(),
           updatedAt: new Date()
@@ -9025,7 +9028,7 @@ module.exports = {
           company: "Digital Intelligence Systems LLC",
           LocationId: 6,
           salary: "From $70,000 a year to $125,000",
-          summary: " ",
+          summary: "HTML, CSS, JavaScript, Python, React",
           long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
           createdAt: new Date(),
           updatedAt: new Date()
@@ -9240,7 +9243,7 @@ module.exports = {
             company: "Digital-Crafts",
             LocationId: 5,
             salary: "From $90,000 a year to $125,000",
-            summary: " ",
+            summary: "HTML, CSS, JavaScript, Python, React",
             long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
             createdAt: new Date(),
             updatedAt: new Date()
@@ -9368,7 +9371,7 @@ module.exports = {
             company: "Digital Intelligence Systems LLC",
             LocationId: 2,
             salary: "From $70,000 a year to $125,000",
-            summary: " ",
+            summary: "HTML, CSS, JavaScript, Python, React",
             long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
             createdAt: new Date(),
             updatedAt: new Date()
@@ -9388,7 +9391,7 @@ module.exports = {
             company: "Digital-Crafts",
             LocationId: 2,
             salary: "From $90,000 a year to $125,000",
-            summary: " ",
+            summary: "HTML, CSS, JavaScript, Python, React",
             long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
             createdAt: new Date(),
             updatedAt: new Date()
@@ -9428,7 +9431,7 @@ module.exports = {
             company: "Digital Intelligence Systems LLC",
             LocationId: 3,
             salary: "From $70,000 a year to $125,000",
-            summary: " ",
+            summary: "HTML, CSS, JavaScript, Python, React",
             long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
             createdAt: new Date(),
             updatedAt: new Date()
@@ -9448,7 +9451,7 @@ module.exports = {
             company: "Digital-Crafts",
             LocationId: 3,
             salary: "From $90,000 a year to $125,000",
-            summary: " ",
+            summary: "HTML, CSS, JavaScript, Python, React",
             long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
             createdAt: new Date(),
             updatedAt: new Date()
@@ -9576,7 +9579,7 @@ module.exports = {
             company: "Digital Intelligence Systems LLC",
             LocationId: 4,
             salary: "From $70,000 a year to $125,000",
-            summary: " ",
+            summary: "HTML, CSS, JavaScript, Python, React",
             long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
             createdAt: new Date(),
             updatedAt: new Date()
@@ -9596,7 +9599,7 @@ module.exports = {
             company: "Digital-Crafts",
             LocationId: 4,
             salary: "From $90,000 a year to $125,000",
-            summary: " ",
+            summary: "HTML, CSS, JavaScript, Python, React",
             long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
             createdAt: new Date(),
             updatedAt: new Date()
@@ -9724,7 +9727,7 @@ module.exports = {
             company: "Digital Intelligence Systems LLC",
             LocationId: 6,
             salary: "From $70,000 a year to $125,000",
-            summary: " ",
+            summary: "HTML, CSS, JavaScript, Python, React",
             long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
             createdAt: new Date(),
             updatedAt: new Date()
@@ -9939,7 +9942,7 @@ module.exports = {
               company: "Digital-Crafts",
               LocationId: 5,
               salary: "From $90,000 a year to $125,000",
-              summary: " ",
+              summary: "HTML, CSS, JavaScript, Python, React",
               long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
               createdAt: new Date(),
               updatedAt: new Date()
@@ -10067,7 +10070,7 @@ module.exports = {
               company: "Digital Intelligence Systems LLC",
               LocationId: 2,
               salary: "From $70,000 a year to $125,000",
-              summary: " ",
+              summary: "HTML, CSS, JavaScript, Python, React",
               long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
               createdAt: new Date(),
               updatedAt: new Date()
@@ -10087,7 +10090,7 @@ module.exports = {
               company: "Digital-Crafts",
               LocationId: 2,
               salary: "From $90,000 a year to $125,000",
-              summary: " ",
+              summary: "HTML, CSS, JavaScript, Python, React",
               long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
               createdAt: new Date(),
               updatedAt: new Date()
@@ -10127,7 +10130,7 @@ module.exports = {
               company: "Digital Intelligence Systems LLC",
               LocationId: 3,
               salary: "From $70,000 a year to $125,000",
-              summary: " ",
+              summary: "HTML, CSS, JavaScript, Python, React",
               long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
               createdAt: new Date(),
               updatedAt: new Date()
@@ -10147,7 +10150,7 @@ module.exports = {
               company: "Digital-Crafts",
               LocationId: 3,
               salary: "From $90,000 a year to $125,000",
-              summary: " ",
+              summary: "HTML, CSS, JavaScript, Python, React",
               long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
               createdAt: new Date(),
               updatedAt: new Date()
@@ -10275,7 +10278,7 @@ module.exports = {
               company: "Digital Intelligence Systems LLC",
               LocationId: 4,
               salary: "From $70,000 a year to $125,000",
-              summary: " ",
+              summary: "HTML, CSS, JavaScript, Python, React",
               long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
               createdAt: new Date(),
               updatedAt: new Date()
@@ -10295,7 +10298,7 @@ module.exports = {
               company: "Digital-Crafts",
               LocationId: 4,
               salary: "From $90,000 a year to $125,000",
-              summary: " ",
+              summary: "HTML, CSS, JavaScript, Python, React",
               long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
               createdAt: new Date(),
               updatedAt: new Date()
@@ -10423,7 +10426,7 @@ module.exports = {
               company: "Digital Intelligence Systems LLC",
               LocationId: 6,
               salary: "From $70,000 a year to $125,000",
-              summary: " ",
+              summary: "HTML, CSS, JavaScript, Python, React",
               long_description: "BASIC QUALIFICATIONS,· 7+ years of experience working directly with engineering teamsExperience in partnering with product and program management teams3+ years of people management experience, managing engineersBachelor’s degree in Computer Science, Computer Engineering or related technical discipline7+ years of relevant engineering experience3+ years professional experience in managing software development teamsExperience with OOD and object oriented languages ",
               createdAt: new Date(),
               updatedAt: new Date()

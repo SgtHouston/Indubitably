@@ -30,9 +30,4 @@ router.get("/search", async (req, res, next) => {
   });
 });
 
-
-
-
-
-
 module.exports = router;
