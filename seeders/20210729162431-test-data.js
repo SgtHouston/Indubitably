@@ -2099,7 +2099,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 5,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "The ideal candidate will have an interest in developing both strong backend development experience and good front end engineering skills with an interest in growing into a Full Stack Developer. ",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -4171,7 +4171,7 @@ module.exports = {
   company: "Digital-Crafts",
   LocationId: 2,
   salary: "From $90,000 a year to $125,000",
-  summary: " ",
+  summary: "The ideal candidate will have an interest in developing both strong backend development experience and good front end engineering skills with an interest in growing into a Full Stack Developer. ",
   long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
   createdAt: new Date(),
   updatedAt: new Date()
@@ -7845,7 +7845,7 @@ module.exports = {
         company: "Digital-Crafts",
         LocationId: 5,
         salary: "From $90,000 a year to $125,000",
-        summary: " ",
+        summary: "The ideal candidate will have an interest in developing both strong backend development experience and good front end engineering skills with an interest in growing into a Full Stack Developer. ",
         long_description: "BASIC QUALIFICATIONS,· Knowledge of professional software engineering best practices for the full software development life cycle including: coding standards, code reviews, source control management, build processes, testing, deploying, debugging, and maintaining code.Experience with performance benchmarking and optimizationFamiliarity with cloud message APIs and push notificationsFamiliarity with continuous integrationAble to work in a diverse team ",
         createdAt: new Date(),
         updatedAt: new Date()
