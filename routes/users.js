@@ -160,10 +160,9 @@ router.delete('/favorites/:id/del', (req, res, next) => {
     where: {
       UserId : req.session.user.id,
       JobId: req.params.id
-
     }
   })
-  // req.session.user.id
+  
       .then((favorite) => {
           favorite.destroy()
           .then(()=>{
