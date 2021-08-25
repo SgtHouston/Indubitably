@@ -11,14 +11,15 @@
             <div class=" right-container container-fluid col-6">
                 <% if (typeof user !== 'undefined' && typeof user !=='null') {  %>
                     <a class="navbar-link profile tooltip-wrap" href="/users/logout">
-                        <img src="/images/LOGOUT2.png" alt="logout" class="logout img-fluid "><%= user.firstName %>
-                        <div class="tooltip-content">
+                        <img src="/images/LOGOUT2.png" alt="logout" class="logout img-fluid navbar-text"><%= user.firstName %>
+                        <div class="tooltip-content navbar-text">
                             <p>Logout</p>
                         </div> 
                     </a>
-                    <a class="navbar-link tooltip-wrap" href="/users/favorites">
+                    <div class="pre-footer"></div>
+                    <a class="navbar-link tooltip-wrap navbar-text" href="/users/favorites">
                         Favorites
-                        <div class="tooltip-content">
+                        <div class="tooltip-content navbar-text">
                             <p>Visit</p>
                         </div>
                     </a>
